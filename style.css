@@ -1,0 +1,96 @@
+h1,h2,h3{
+    font-family: comic sans ms;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-family: comic sans ms;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+#hq1{
+    font-family: comic sans ms;
+    text-align: center;
+}
+.page1{
+  
+    height: 60rem;
+    width: 90rem;
+}
+#img{
+    width: 14rem;
+    animation-name: code ;
+    animation-duration: 10s;
+    animation-iteration-count: 1;
+    border-radius: 5rem;
+    
+
+}
+#am{
+    text-align: left;
+}
+@keyframes code
+ {
+     0%{
+         width: 0rem;
+     }
+     25%{
+         width: 14rem
+     }
+    50% {
+        width: 16px;
+    }
+    75%{
+        width: 14rem;
+    }
+    
+}
+#jp,#graph{
+    width: 10 cm;
+    height: 9cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pd,#pd2,#fe,#tra,#auto,#fe{
+    width: 25cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+}
+#ma{
+    width: 17cm;
+    height: 9cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    color: aliceblue;
+    font-family: comic sans ms;
+    text-align: center;
+}
+#ar,#sms{
+    width: 10 cm;
+    height: 9cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#calls{width: 25cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+}
+
+
+
